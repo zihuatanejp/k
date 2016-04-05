@@ -1,0 +1,11 @@
+$bg:blue;
+
+h1{
+	color:$bg;
+}
+
+.row[class~=no-gutter] div[class^="col-"]{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+

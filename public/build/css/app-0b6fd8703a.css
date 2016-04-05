@@ -1,0 +1,9 @@
+h1 {
+  color: blue; }
+
+.row[class~=no-gutter] div[class^="col-"] {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+h3 {
+  color: red; }
